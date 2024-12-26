@@ -1,0 +1,7 @@
+@tailwind base;
+
+/* Add default styles here */
+@layer base {}
+
+@tailwind components;
+@tailwind utilities;

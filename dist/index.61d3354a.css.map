@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;AAGA;;AAEA;;AACA","sources":["src/index.css"],"sourcesContent":["@tailwind base;\r\n\r\n/* Add default styles here */\r\n@layer base {}\r\n\r\n@tailwind components;\r\n@tailwind utilities;"],"names":[],"version":3,"file":"index.61d3354a.css.map","sourceRoot":"/__parcel_source_root/"}
